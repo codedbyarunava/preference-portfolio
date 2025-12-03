@@ -1,2 +1,2 @@
 # my-portfolio
-Specifically made for a preference
+Specifically made for a preference.
